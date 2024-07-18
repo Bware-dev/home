@@ -2,7 +2,7 @@ vim.cmd("set noexpandtab")
 vim.cmd("set tabstop=5")
 vim.cmd("set softtabstop=5")
 vim.cmd("set shiftwidth=5")
-vim.cmd("colo slate")
+vim.cmd("colo habamax")
 
 vim.g.mapleader = " "
 
