@@ -53,9 +53,7 @@ vim.keymap.set("n", ">", ">>")
 vim.keymap.set("n", "<", "<<")
 
 -- Copy to clipboard
-vim.keymap.set("n", "<leader>y", "\"+y")
 vim.keymap.set("v", "<leader>y", "\"+y")
-vim.keymap.set("n", "<leader>Y", "\"+Y")
 
 -- Mass replace current word
 vim.keymap.set("n", "<leader>s", ":%s/\\<<C-r><C-w>\\>/<C-r><C-w>/gI<Left><Left><Left>")
