@@ -1,0 +1,27 @@
+# 915339 brown
+# ab9574 tan
+# 3e6132 dark-green
+# 80aa22 lime-green
+
+background = 151313
+foreground = ab9574
+cursor-color = 42593f
+selection-foreground = 71816d
+selection-background = 5e5e5e
+
+palette = 0=000000
+palette = 1=915339
+palette = 2=3e6132
+palette = 3=808000
+palette = 4=000080
+palette = 5=800080
+palette = 6=ab9574
+palette = 7=c0c0c0
+palette = 8=808080
+palette = 9=ff0000
+palette = 10=00ff00
+palette = 11=ffff00
+palette = 12=0000ff
+palette = 13=cfbfa3
+palette = 14=80aa22
+palette = 15=808080

@@ -1,0 +1,31 @@
+# f6e7cb pale
+# 417137 dark-green
+# e391b9 pink
+# d78787 salmon
+# f26ca7 hot-pink
+# 7f6cad blueberry
+# 7d8ca1 steel-blue
+# 5a5d69 iron+
+
+background = ffffff
+foreground = bddaf0
+cursor-color = 7d8ca1
+selection-foreground = 71816d
+selection-background = 5e5e5e
+
+palette = 0=000000
+palette = 1=f6e7cb
+palette = 2=7d8ca1
+palette = 3=808000
+palette = 4=000080
+palette = 5=800080
+palette = 6=7f6cad
+palette = 7=c0c0c0
+palette = 8=808080
+palette = 9=ff0000
+palette = 10=00ff00
+palette = 11=d78787
+palette = 12=0000ff
+palette = 13=d78787
+palette = 14=4a4d59
+palette = 15=7d8ca1
